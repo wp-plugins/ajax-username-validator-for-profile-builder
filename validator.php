@@ -1,11 +1,11 @@
 <?php 
     /*
     Plugin Name: AJAX Username Validator for Profile Builder
-    Plugin URI: http://zonneveldmedia.nl
+    Plugin URI: http://zonneveldcloud.nl
     Description: Check if the username exist or not with AJAX and jQuery. Plugin works only with the Profile Builder plugin.
-    Author: Zonneveld Media
-    Version: 1.0
-    Author URI: http://zonneveldmedia.nl
+    Author: Zonneveld Cloud
+    Version: 1.0.1
+    Author URI: http://zonneveldcloud.nl
     */
 ?>
 
